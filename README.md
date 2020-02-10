@@ -13,4 +13,5 @@ Platform : Jupyter Notebook
 Algorithms : Sarimax, RNN LSTM, XGBoost, FBprophet, Decision Tree, Random Forest Tree, 
              Gradient Boosting, Linear Regression, SVM 
              
-Libraries : Pandas, numpy, keras, xgboost, Scikit-learn, Statsmodels
+Libraries : Pandas, numpy, keras, xgboost, Scikit-learn, Statsmodels, Matplotlib, Seaborn
+Visualization tools : Tableau
