@@ -7,7 +7,10 @@ Analysis was performed on Tableau and Python. Data Preprocessing was done using 
 and a variety of Machine Learning Algorithms were utilized to perform Time Series Forecasting.
 
 Language : Python
+
 Platform : Jupyter Notebook
+
 Algorithms : Sarimax, RNN LSTM, XGBoost, FBprophet, Decision Tree, Random Forest Tree, 
              Gradient Boosting, Linear Regression, SVM 
+             
 Libraries : Pandas, numpy, keras, xgboost, Scikit-learn, Statsmodels
