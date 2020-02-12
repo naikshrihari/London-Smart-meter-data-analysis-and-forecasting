@@ -3,7 +3,7 @@
 The project aims to analyze the Energy Consumption Patterns and it's relationship 
 with socio-demographic and weather indicators for European cities like London, post 
 the installation of Smart Energy Meters over a period of 30 months. Exploratory Data 
-Analysis was performed on Tableau and Python. Data Preprocessing was done using Spark 
+Analysis was performed on Tableau and Python. Data Preprocessing was done using pandas 
 and a variety of Machine Learning Algorithms were utilized to perform Time Series Forecasting.
 
 Language : Python
