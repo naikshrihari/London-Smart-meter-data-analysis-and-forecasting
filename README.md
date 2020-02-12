@@ -17,3 +17,5 @@ Libraries : Pandas, numpy, keras, xgboost, Scikit-learn, Statsmodels, Matplotlib
 Visualization tools : Tableau
 
 Dataset : https://www.kaggle.com/jeanmidev/smart-meters-in-london
+
+Note : Install FBProphet using command:~$ pip install fbprophet
