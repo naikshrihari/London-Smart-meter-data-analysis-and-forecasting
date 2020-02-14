@@ -1,4 +1,4 @@
-# London-Smart-meter-data-analysys-and-forecasting
+# London-Smart-meter-data-analysis-and-forecasting
 
 The project aims to analyze the Energy Consumption Patterns and it's relationship 
 with socio-demographic and weather indicators for European cities like London, post 
